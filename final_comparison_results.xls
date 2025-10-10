@@ -1,0 +1,4 @@
+Model,H0 [km/s/Mpc],r_d [Mpc],chi2,Delta_chi2_vs_Optimal,Solves_Tension
+Optimal LCDM,67.36,147.09,87.085,0.0,No
+LCDM Tension,73.0,147.09,72.745,-14.34,No
+UAT Solution,73.0,141.0,48.677,38.408,YES

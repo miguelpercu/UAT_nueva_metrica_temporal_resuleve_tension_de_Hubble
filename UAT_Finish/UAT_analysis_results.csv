@@ -1,0 +1,4 @@
+Model,H0,rd,chi2,rd_reduction_percent,Solves_Tension
+Optimal LCDM,67.36,147.09,87.08452438962985,0.0,No
+LCDM Tension,73.0,147.09,72.74462163167279,0.0,No
+UAT Solution,73.0,141.0,48.67728155902051,4.140322251682646,Yes
